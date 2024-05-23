@@ -5,7 +5,8 @@ d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
+events.hotjar.io
 tools.mouseflow.com
-browser.sentry-cdn.com
-widgets.pinterest.com
-weather-analytics-events.apple.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
