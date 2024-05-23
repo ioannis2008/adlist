@@ -1,3 +1,11 @@
 # Title: papasot greek adlist
 # Domains:
 hero-wars.com
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
+tools.mouseflow.com
+browser.sentry-cdn.com
+widgets.pinterest.com
+weather-analytics-events.apple.com
