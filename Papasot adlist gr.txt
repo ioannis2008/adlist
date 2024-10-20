@@ -1,13 +1,200 @@
 # Title: papasot greek adlist
 # Domains:
-hero-wars.com
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
-events.hotjar.io
-tools.mouseflow.com
-cdn-test.mouseflow.com
+#----------------------------------------------------------------
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+#----------------------------------------------------------------
+127.0.0.1     adtago.s3.amazonaws.com
+127.0.0.1     analyticsengine.s3.amazonaws.com
+127.0.0.1     analytics.s3.amazonaws.com
+127.0.0.1     advice-ads.s3.amazonaws.com
+127.0.0.1     analytics.google.com
+127.0.0.1     click.googleanalytics.com
+127.0.0.1     freshmarketer.com
+127.0.0.1     claritybt.freshmarketer.com
+127.0.0.1     fwtracks.freshmarketer.com
+127.0.0.1     app.getsentry.com
+127.0.0.1     ads.pinterest.com
+127.0.0.1     log.pinterest.com
+127.0.0.1     analytics.pinterest.com
+127.0.0.1     trk.pinterest.com
+127.0.0.1     events.redditmedia.com
+127.0.0.1     ads.youtube.com
+127.0.0.1     log.byteoversea.com
+127.0.0.1     geo.yahoo.com
+127.0.0.1     udc.yahoo.com
+127.0.0.1     udcm.yahoo.com
+127.0.0.1     analytics.query.yahoo.com
+127.0.0.1     log.fc.yahoo.com
+127.0.0.1     gemini.yahoo.com
+127.0.0.1     adtech.yahooinc.com
+127.0.0.1     extmaps-api.yandex.net
+127.0.0.1     appmetrica.yandex.ru
+127.0.0.1     adfstat.yandex.ru
+127.0.0.1     metrika.yandex.ru
+127.0.0.1     offerwall.yandex.net
+127.0.0.1     auction.unityads.unity3d.com
+127.0.0.1     webview.unityads.unity3d.com
+127.0.0.1     config.unityads.unity3d.com
+127.0.0.1     adserver.unityads.unity3d.com
+127.0.0.1     iot-eu-logser.realme.com
+127.0.0.1     iot-logser.realme.com
+127.0.0.1     bdapi-ads.realmemobile.com
+127.0.0.1     bdapi-in-ads.realmemobile.com
+127.0.0.1     api.ad.xiaomi.com
+127.0.0.1     data.mistat.xiaomi.com
+127.0.0.1     data.mistat.india.xiaomi.com
+127.0.0.1     data.mistat.rus.xiaomi.com
+127.0.0.1     sdkconfig.ad.xiaomi.com
+127.0.0.1     sdkconfig.ad.intl.xiaomi.com
+127.0.0.1     tracking.rus.miui.com
+127.0.0.1     adsfs.oppomobile.com
+127.0.0.1     adx.ads.oppomobile.com
+127.0.0.1     ck.ads.oppomobile.com
+127.0.0.1     data.ads.oppomobile.com
+127.0.0.1     click.oneplus.cn
+127.0.0.1     metrics.data.hicloud.com
+127.0.0.1     metrics2.data.hicloud.com
+127.0.0.1     grs.hicloud.com
+127.0.0.1     logservice.hicloud.com
+127.0.0.1     logservice1.hicloud.com
+127.0.0.1     logbak.hicloud.com
+127.0.0.1     iadsdk.apple.com
+127.0.0.1     metrics.icloud.com
+127.0.0.1     metrics.mzstatic.com
+127.0.0.1     api-adservices.apple.com
+127.0.0.1     books-analytics-events.apple.com
+127.0.0.1     weather-analytics-events.apple.com
+127.0.0.1     notes-analytics-events.apple.com
+127.0.0.1     samsungads.com
+127.0.0.1     smetrics.samsung.com
+127.0.0.1     analytics-api.samsunghealthcn.com
+#----------------------------------------------------------------
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+analytics.google.com
+click.googleanalytics.com
+freshmarketer.com
 claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
-https://googleads.g.doubleclick.net/aclk?sa=l&ai=CTCLRMMdQZue0AcrT9u8Ps4aq4AXrn6v7db7YxJqXEsWVn_WGQhABIM675B9grfLYA6ABwsrFzirIAQapAu1HZeFQMrI-4AIAqAMByAMKqgTUAk_QgV0LgKW_Cz71fp2wVMDO8hm7365fx_J4PXx1KOQ3aZJ0Eoa-NcYvJJ6VP95ItN0y58va1Wb3len6Iu7DWP3JloOwBjOsJVl8QTvIzhHCsiwogjZR1MU7xPNBceDxtPJ8srptfdjHBF9_mvgvVeOs8fOZ1fwTsOu7tZHSdNsRh94e46_KXT1jSqvSb7rYSnTJ_qCXJKi9IxSae3oSKf27Dc6JTMLWu3-stdayfvKP8pMAteq9YTx--Yo-ru5Qg_pvKdr8fzkyD2Jup2Ojsq-R_SYBgY1Slz8JTTLrNgVwBLsEWja8OrnEvJtT0wA0DIDeShdavbNLY-Gtkoh3_7ip8BBXLrhkgGqpxQ-y4XPoHtzJ_5FmQhhVG8kqqUT_V5MsopAZqSW8p5wla4i7YByhZ5s4f8d4Ad5Ks-kZY2N6Ey-92JdqvJPb91U_LjfI5snqdQjABOLhreDJBOAEAYgF_9i9_02AB8KClq4FqAfZtrECqAfVyRuoB6a-G6gHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6--sQKoB5oGqAfz0RuoB5bYG6gHqpuxAqgHg62xAqgH4L2xAqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIILAiR4YBwEAEYHTIH64uA4L-AAToKgIABgICAgICULki9_cE6WP6u8JrhpoYDsQkFTSPoKEmRXIAKA5gLAcgLAaoNAkdSyA0B4g0TCPXu8JrhpoYDFcqp_QcdM4MKXNgTDdAVAZgWAfgWAYAXAbIYCRIC41kYASIBAA&ae=1&gclid=EAIaIQobChMI54zymuGmhgMVyqn9Bx0zgwpcEAEYASAAEgL1kfD_BwE&num=1&sig=AOD64_2Nz3nbhAtRIM-MdkD-4EX9CtCvng&client=ca-pub-3121563445182145&rf=4&nb=0&adurl=https://www.3play.gr/vodafone-offers%3Fgclid%3DEAIaIQobChMI54zymuGmhgMVyqn9Bx0zgwpcEAEYASAAEgL1kfD_BwE
+app.getsentry.com
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+events.redditmedia.com
+ads.youtube.com
+log.byteoversea.com
+geo.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+analytics.query.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+adtech.yahooinc.com
+extmaps-api.yandex.net
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+api.ad.xiaomi.com
+data.mistat.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+tracking.rus.miui.com
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+click.oneplus.cn
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+iadsdk.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
+samsungads.com
+smetrics.samsung.com
+analytics-api.samsunghealthcn.com
